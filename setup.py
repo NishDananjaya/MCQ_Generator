@@ -8,5 +8,3 @@ setup(
     install_requires = ["openai","Langchain","streamlit","python-dotenv","PyPDF2"],
     packages=find_packages()
     )
-
-from langchain.chat_models import ChatOpenAI
