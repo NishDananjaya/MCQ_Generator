@@ -2,3 +2,5 @@ env310
 venv
 .env
 data.txt
+__init__.cpython-38.pyc
+logger.cpython-38.pyc
