@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
 Who coined the term 'machine learning'?,a: Alan Turing | b: Donald Hebb | c: Arthur Samuel | d: Tom M. Mitchell,c
-What was the name of the early 'learning machine' developed by Raytheon Company?,a: HebbNet | b: Cybertron | c: Learning Machine | d: Turing Machine,b
-Donald Hebb's work in the 1940s laid the groundwork for understanding:,a: Computer vision for mole classification | b: Stock trading predictions | c: How artificial neurons interact in AI | d: The use of punched tape memory in learning machines,c
-Tom M. Mitchell's definition of machine learning focuses on:,a: The cognitive processes of the human brain | b: The ability of machines to perform tasks like humans | c: The improvement of a program's performance with experience | d: The use of specific algorithms for pattern recognition,c
-What are the two main objectives of modern machine learning?,a: Classifying data and making predictions | b: Replicating human thought and winning games | c: Analyzing sonar signals and electrocardiograms | d: Developing artificial neurons and neural networks,a
+What was the focus of early machine learning research in the 1960s?,a: Stock market prediction | b: Cancer detection | c: Pattern recognition | d: Natural language processing,c
+Donald Hebb's work on interacting neurons laid the groundwork for:,a: Computer vision | b: Artificial neural networks | c: Reinforcement learning | d: Supervised learning,b
+"According to Tom M. Mitchell, a computer program learns if:",a: It can perfectly mimic human thought processes | b: It can store a large amount of data | c: Its performance on a task improves with experience | d: It can communicate with other computers,c
+What are the two main objectives of modern-day machine learning?,a: Data classification and prediction | b: Image recognition and speech synthesis | c: Hardware design and software development | d: Playing games and solving puzzles,a
