@@ -5,3 +5,8 @@ data.txt
 __init__.cpython-38.pyc
 logger.cpython-38.pyc
 test.py
+src/mcqgenerator/__pycache__/utils.cpython-310.pyc
+src/mcqgenerator/__pycache__/MCQGenerater.cpython-310.pyc
+src/mcqgenerator/__pycache__/logger.cpython-310.pyc
+src/mcqgenerator/__pycache__/__init__.cpython-310.pyc
+src/__pycache__/__init__.cpython-310.pyc
