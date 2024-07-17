@@ -5,3 +5,5 @@ python-dotenv
 PyPDF2==3.0.1
 langchain-community==0.0.20
 langchain-google-genai==0.0.11
+
+-e .
