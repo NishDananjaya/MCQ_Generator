@@ -3,8 +3,6 @@ import json
 import pandas as pd
 import traceback
 from dotenv import load_dotenv
-# from utils import read_file,get_table_data
-# from logger import logging
 
 # importing the necessary packages from langchain
 from langchain_google_genai import ChatGoogleGenerativeAI

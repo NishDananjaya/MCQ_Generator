@@ -1,8 +1,6 @@
 import os
-import PyPDF2
 import json
 import traceback
-
 from PyPDF2 import PdfReader
 
 def read_file(file):
