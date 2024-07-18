@@ -54,7 +54,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## Author
 
-- Nishan Dananjaya
+- NishDananjaya
 - Email: dananjayanishanpro@gmail.com
 
 ## License
