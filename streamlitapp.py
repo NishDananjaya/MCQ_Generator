@@ -13,7 +13,7 @@ with open("response.json", 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 #creating the title for the app
-st.title("MCQ Generator Application with Langchain 🐦🔗🔗")
+st.title("MCQ Generator Application with Langchain 😎🐦🔗🔗")
 
 #Creating a form using st.form
 with st.form("user_inputs"):
